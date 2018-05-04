@@ -1,6 +1,9 @@
-h1 {
-  font-family: "Merriweather", serif;
-  font-size: 32px;
+ h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: bold;
+  element 
 }
 /* Fonts from Google Fonts - more at https://fonts.google.com */
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
@@ -21,7 +24,7 @@ h1 {
   font-size: 34px;
   font-style: normal;
   font-weight: bold;
-  element 
+  element
 }
 
       
